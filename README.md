@@ -1,6 +1,6 @@
 # 👤 Felipe Siaba
 
-**`Programador Vascaino`**
+**`Programador`**
 
 Me chamo Felipe Cabral Siaba, tenho 20 anos e sou do Rio de Janeiro. Atualmente, estou cursando Engenharia da Computação na IBMEC. Odeio profundamente Java.
 
