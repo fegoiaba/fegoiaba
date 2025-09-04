@@ -1,108 +1,52 @@
-# 👤 Felipe Siaba
+<h1 align="center">Holla, Eu sou Felipe Siaba 👋</h1>
 
-**`Programador`**
+<p align="center">
+  <em>Engenheiro de software • Estudante • Vascaíno fanático 💢 </em>
+</p>
 
-Me chamo Felipe Cabral Siaba, tenho 20 anos e sou do Rio de Janeiro. Atualmente, estou cursando Engenharia da Computação na IBMEC. Odeio profundamente Java.
+<p align="center">
+  <img src="https://i.pinimg.com/originals/30/c2/10/30c210344bbbcde4d5542c02a0cb908b.gif" width="400px" alt="commit gif looping" />
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧠 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
+- ✨ 20 anos
+- 🏖️ Rio de Janeiro
+- 🔭 Cursando Engenharia de Software 
+- 📚 Estudante do IBMEC
+- 🏆 Iniciante na Programação
+  
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+---
 
+### 💻 Tech Stack Highlights
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=felipegoiabah&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegoiabah&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegoiabah&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </p>
+
+---
+
+### 🐍 Frequency
+    
+![Snake animation](https://github.com/felipegoiabah/felipegoiabah/blob/output/github-contribution-grid-snake.svg)
+    
+
+
+---
+
+### 🟩 Latest Commit Energy
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=felipegoiabah&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <em>Continue construindo. Um commit de cada vez.</em> 🟩
+</p>
+
+
+ 
 
