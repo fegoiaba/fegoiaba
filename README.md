@@ -1,7 +1,7 @@
 <h1 align="center">Holla, Eu sou Felipe Siaba 👋</h1>
 
 <p align="center">
-  <em>Engenheiro de software • Estudante • Vascaíno fanático 💢 </em>
+  <em>Engenheiro de software • Estudante • 20 anos • Vascaíno fanático 💢 </em>
 </p>
 
 <p align="center">
@@ -10,16 +10,7 @@
 
 ---
 
-### 🧠 Sobre mim
 
-- ✨ 20 anos
-- 🏖️ Rio de Janeiro
-- 🔭 Cursando Engenharia de Software 
-- 📚 Estudante do IBMEC
-- 🏆 Iniciante na Programação
-  
-
----
 
 ### 💻 Tech Stack Highlights
 
@@ -30,8 +21,15 @@
 ---
 
 ### 🐍 Frequency
+
+
+
+
     
-![Snake animation](https://github.com/felipegoiabah/felipegoiabah/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/felipegoiabah/felipegoiabah/blob/output/github-snake-dark.svg)
+
+
+
     
 
 
