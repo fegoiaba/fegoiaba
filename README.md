@@ -1,4 +1,4 @@
-<h1 align="center">Holla, Eu sou Felipe Siaba 👋</h1>
+<h1 align="center">привет, Eu sou Felipe Siaba 👋</h1>
 
 <p align="center">
   <em>Engenheiro de software • Estudante • 20 anos • Vascaíno fanático 💢 </em>
