@@ -1,11 +1,11 @@
 <h1 align="center">привет, Eu sou Felipe Siaba 👋</h1>
 
 <p align="center">
-  <em>Engenheiro de software • Estudante • 20 anos • Vascaíno fanático 💢 </em>
+  <em>Engenheiro de software • Estudante • 20 anos • Designer nas horas vagas </em>
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/30/c2/10/30c210344bbbcde4d5542c02a0cb908b.gif" width="400px" alt="commit gif looping" />
+  <img src="https://i.pinimg.com/originals/9b/aa/e6/9baae69cac30989476b849cea7ddb5ee.gif" width="400px" alt="commit gif looping" />
 </p>
 
 ---
@@ -45,6 +45,9 @@
   <em>Continue construindo. Um commit de cada vez.</em> 🟩
 </p>
 
+<p align="center">
+  <img src="https://img1.picmix.com/output/stamp/normal/1/9/0/6/2526091_46204.gif" width="400px" alt="commit gif looping" />
+</p>
 
  
 
