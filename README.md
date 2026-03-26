@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, Eu sou Felipe Siaba 👋</h1>
 
 <p align="center">
-  <em>Engenheiro de software • Estudante • 20 anos • Designer nas horas vagas </em>
+  <em>Estudante • 20 anos • Engenheiro de software •  Designer nas horas vagas </em>
 </p>
 
 <p align="center">
